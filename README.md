@@ -58,15 +58,6 @@ Simulation: Python-based calculation engine
 
 Optimisation: Mathematical optimisation methods, selected according to the problem
 
-Repository Structure
-
-research/ — Research notes and technical summaries.
-
-references/ — External repositories, papers, and datasets.
-
-technical-design/ — Architecture, algorithms, and design decisions.
-
-experiments/ — Simulation scenarios and test cases.
 
 Research Principles
 
